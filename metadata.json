@@ -1,0 +1,10 @@
+{
+  "name": "MemoryMesh - Privacy-First Neighborhood Safety Network",
+  "description": "Real-time neighborhood wandering alert network with multimodal AI edge-vision camera matching and instant GPS coordinate pin dropping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
